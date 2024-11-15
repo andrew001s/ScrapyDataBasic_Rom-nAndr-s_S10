@@ -1,0 +1,19 @@
+Ataque Tipo,Fuerte x2,Poco Efectivo x½,Inmune x0
+Normal,,,Fantasma
+Fuego,PlantaHieloBichoAcero,RocaFuegoAguaDragón,
+Agua,FuegoTierraRoca,AguaPlantaDragón,
+Planta,AguaTierraRoca,VoladorVenenoBichoAceroFuegoPlantaDragón,
+Eléctrico,AguaVolador,DragónEléctricoPlanta,Tierra
+Hielo,PlantaTierraVoladorDragón,AceroAguaFuegoHielo,
+Lucha,NormalHieloRocaAceroSiniestro,BichoHadaPsíquicoVenenoVolador,Fantasma
+Veneno,PlantaHada,FantasmaRocaVenenoTierra,Acero
+Tierra,FuegoEléctricoVenenoRocaAcero,BichoPlanta,Volador
+Volador,PlantaLuchaBicho,AceroEléctricoRoca,
+Psíquico,LuchaVeneno,AceroPsíquico,Siniestro
+Bicho,PlantaPsíquicoSiniestro,FuegoVoladorFantasmaLuchaVenenoAceroHada,
+Roca,FuegoHieloVoladorBicho,AceroLuchaTierra,
+Fantasma,PsíquicoFantasma,Siniestro,Normal
+Dragón,Dragón,Acero,Hada
+Siniestro,PsíquicoFantasma,LuchaSiniestroHada,
+Acero,HieloRocaHada,FuegoAguaEléctricoAcero,
+Hada,LuchaDragónSiniestro,FuegoVenenoAcero,
