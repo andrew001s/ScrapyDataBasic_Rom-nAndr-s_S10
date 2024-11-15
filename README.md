@@ -5,6 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-yellow)
 ![Requests](https://img.shields.io/badge/Requests-2.x-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 Este proyecto utiliza *web scraping* en Python para extraer y estructurar datos de una página web específica. Con el uso de `requests` y `BeautifulSoup`, accedemos a la página web y analizamos su contenido, mientras que `pandas` facilita la organización y exportación de los datos a archivos como CSV.
 
