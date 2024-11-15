@@ -32,7 +32,7 @@ Este proyecto utiliza *web scraping* en Python para extraer y estructurar datos 
 ## Instalación y ejecución
 Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repositorio.git
+   git clone https://github.com/andrew001s/ScrapyDataBasic_RomanAndres_S10.git
    ```
 
 ## Requisitos
